@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leander Knüttel</h1>
 
-- 🔭 I’m currently working on [Remote player waypoints for Xaero's Map](https://github.com/thebuildcraft/RemotePlayerWaypointsForXaero)
+- 🔭 I’m currently working on [Map Link](https://github.com/thebuildcraft/MapLink)
 - 🌱 I’m currently studying at the technical university of applied sciences würzburg-schweinfurt
 - 📫 How to reach me **thebuildcraft1@gmail.com**
 
